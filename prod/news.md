@@ -1,4 +1,4 @@
-- if you setup twitch or youtube link in the profile, it will show that you are live on the rankings page
+- if you setup a twitch or youtube link in your profile, it will show that you are live on the rankings page
 - selecting a country on the profile is now possible and shows also on the rankings page
 - matches can now be filtered by gamemode and gateway
 - selected icons are now shown on the rankings page
