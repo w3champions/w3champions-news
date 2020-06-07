@@ -1,4 +1,4 @@
-export const faqsTest = [
+export const faqs = [
   {
     question: "Will I get banned by Blizzard, if I use W3Champions ladder?",
     answer:
