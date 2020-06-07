@@ -1,1 +1,1 @@
-Real test News (16.4.20)
+Test News (16.4.20)
