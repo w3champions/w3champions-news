@@ -1,4 +1,4 @@
-export const faqs = [
+[
   {
     question: "Will I get banned by Blizzard, if I use W3Champions ladder?",
     answer:
@@ -76,4 +76,4 @@ export const faqs = [
     answer:
       'If you have join bugs for specific maps with "unable to start map", you can fix by (1) deleting Maps folder in Documents/Warcraft III and in Program Files (installation location); and (2) running repair tool and your maps should work.',
   },
-];
+]
