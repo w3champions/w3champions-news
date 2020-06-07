@@ -3,3 +3,7 @@ We are happy to announce, that we now have a news section, that will be maintain
 - client awesome
 - new cewl matchmaking
 - clans now possible
+- Test
+
+- This is a different indented bullet
+
