@@ -1,9 +1,4 @@
-We are happy to announce, that we now have a news section, that will be maintained by the community. This is the test stage.
-
-- client awesome
-- new cewl matchmaking
-- clans now possible
-- Test
-
-- This is a different indented bullet
-
+- if you setup a twitch or youtube link in your profile, it will show that you are live on the rankings page
+- selecting a country on the profile is now possible and shows also on the rankings page
+- matches can now be filtered by gamemode and gateway
+- selected icons are now shown on the rankings page
