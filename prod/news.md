@@ -12,11 +12,3 @@ Please attempt the following steps:
 4. Make sure to try running the W3champions launcher as an administrator.
 
 If after these steps you still have issues, please let us know in #error-reports.
-
-
-Update from June 8, 2020:
-
-- If you setup a twitch or youtube link in your profile, it will show that you are live on the rankings page
-- Selecting a country on the profile is now possible and will also be displayed on the rankings page
-- Matches can now be filtered by gamemode and gateway
-- Selected icons are now shown on the rankings page
