@@ -2,13 +2,13 @@ Greeting W3Champions,
 
 This announcement serves to explain our plans ahead of season 2.  In brief:
 
-1. Season 2 schedule
-2. End Season Tournament
-3. MMR reset
-4. FFA and RT MMR tweaks
-5.  Minimum MMR gate for Grandmaster
-6. Ranking tweaks – decay, minimum number of games, etc
-7. New maps
+Season 2 schedule
+End Season Tournament
+MMR reset
+FFA and RT MMR tweaks
+Minimum MMR gate for Grandmaster
+Ranking tweaks – decay, minimum number of games, etc
+New maps
 
 1. Season 2 Schedule:
 Season 2 begins Friday, July 17 and will run six weeks.  (July 17 – August 28) Seasons, from now on, will begin and end on a Friday.  This means we will be delaying the end of Season 1 from July 12 until July 17 18:00 CEST.
