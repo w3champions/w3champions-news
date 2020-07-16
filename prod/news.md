@@ -1,19 +1,15 @@
+*Donate to End Season Tournament Prizepool: https://matcherino.com/tournaments/31685*
+
 Greeting W3Champions,
 
 This announcement serves to explain our plans ahead of season 2.  In brief:
 
-Season 2 schedule
-
-End Season Tournament
-
-MMR reset
-
-FFA and RT MMR tweaks
-
-Minimum MMR gate for Grandmaster
-
-Ranking tweaks – decay, minimum number of games, etc
-
+Season 2 schedule;
+End Season Tournament;
+MMR reset;
+FFA and RT MMR tweaks;
+Minimum MMR gate for Grandmaster;
+Ranking tweaks – decay, minimum number of games, etc; and
 New maps
 
 1. Season 2 Schedule:
