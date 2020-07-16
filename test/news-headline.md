@@ -1,1 +1,1 @@
-W3Champions News -  July 3, 2020
+W3Champions News -  July 16, 2020
