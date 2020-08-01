@@ -2,19 +2,32 @@
 
 Greeting W3Champions,
 
-The new W3Champions Season 2 has begun as of 18:00 CEST!!!  Enjoy your fresh MMR and stats!!!!
+WC3 just released the ability to zoom-out for w3champions. Everyone will be required to download the new installer (windows or mac) from our website to pick up these changes.  You will also need to restart Warcraft III.
 
-Read the news here: https://docs.google.com/document/d/1tIhz_HcGY0ebBx1t_NNLbZBx0qheaOl6FfKh_m6D6Zc/edit
+Standard zoom - 1650
+Max zoom - 3000
 
-In brief:
+Type "-zoom XXXX" to set desired zoom.
+Type "-zoom" to return to standard
 
-Season 2 schedule;
-End Season Tournament;
-MMR reset;
-FFA and RT MMR tweaks;
-Minimum MMR gate for Grandmaster;
-Ranking tweaks – decay, minimum number of games, etc; and
-New maps
+All game modes EXCEPT FFA will support zooming out. We'll be working on adding zoom-out to FFA next. Observers cannot use the zoom-out functionality yet either. We are still researching how to support observers. Please report any issues to us here in discord. 
 
+When you play your next match, you should see a message that will show you how to zoom out ingame. Your zoom preferences will persist to future matches automatically.
+
+---
+
+Join bugs are caused by different map paths. 
+If you have a Maps folder inside your Warcraft 3 directory go ahead and delete it.
+Delete Path-to-game/Maps Path-to-game/_retail_/maps
+
+Example:
+DELETE C:\Program Files (x86)\Warcraft III\Maps
+DELETE C:\Program Files (x86)\Warcraft III\_retail_\Maps
+
+The correct folders for maps are:
+1) Windows -> Documents\Warcraft III\Maps <--- here you should have a folder W3Champions with w3c maps
+2) Mac -> Library/Application Support/Blizzard/Warcraft III/Maps <--- here you should have a folder W3Champions with w3c map
+
+---
 
 Best place for technical/installation help is to join the discord and ask your questions in #i-need-help. We are attempting to keep the FAQ up-to-date, but frequent development means answers become obsolete quickly. Come join the community!
