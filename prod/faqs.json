@@ -4,12 +4,8 @@
     "answer": "The short answer is <b>probably</b> not. The long answer is that we currently consider it very unlikely that you will be banned from using W3Champions, but we never can rule it out."
   },
   {
-    "question": "Are you planning on doing different seasons?",
-    "answer": "Who knows =)"
-  },
-  {
     "question": "Are there any plans to add 2v2, 4v4, or FFA ladder?",
-    "answer": "Yes, eventually. Right now we focus on 1v1 ladder,"
+    "answer": "Yes, we support 2v2 (AT and RT), 4v4 (RT), as well as FFA. There are no current plans to support 4v4 (AT) or 3v3"
   },
   {
     "question": "Is the developement team in some way involved or associated with Blizzard?",
@@ -29,16 +25,16 @@
   },
   {
     "question": "I started the Queue but I don't find matches, what can I do?",
-    "answer": "Don't restart queueing after a few seconds/minutes. It will enlarge queue times. If it's a unpopular time, try again later. If you are sure, it must be a bug, reach out to us."
+    "answer": "The matchmaking widens the search the longer you are searching for, so do not restart queuing. If it's a unpopular time, try again later. If you are sure, it must be a bug, reach out to us."
   },
   {
     "question": "Will you try to create a Netease-like 3rd party client?",
     "answer":
-    "We will try to integrate any features directly into the Reforged client to make a 3rd party client unnecessary."
+    "We released a launcher recently which now supports custom hotkeys, like Netease, and should help us test new features easier in the future."
   },
   {
     "question": "What will happen to the ladder, when Blizzard will actually publish an own ladder?",
-    "answer": "The community will decide how to proceed with it. If you prefer the official ladder, we will use the technology for other projects like automated tournaments."
+    "answer": "We shall leave this to the community to decide. If you prefer the official ladder, we can use the technology for other projects like automated tournaments."
   },
   {
     "question": "Will we get Rank-Titles like in SC2?",
@@ -46,14 +42,14 @@
   },
   {
     "question": "I get the message \"Joining ladder game, please wait...\" but nothing happens. What to do?",
-    "answer": "This is currently a well known bug. We investigate in it. Please restart Warcraft III via Alt+F4."
+    "answer": "This is currently a well known bug. We will investigate it. Please restart Warcraft III via Alt+F4. We have recently pushed some changes which should reduce this issue."
   },
   {
     "question": "Will ladder still work after Blizzard patches wc3?",
-    "answer": "In general yes. But it is possible that something breaks by a patch. We will fix this within hours if that's the case."
+    "answer": "We are confident it will. But it is possible that something breaks by a patch. We will endevour to fix this quickly if that's the case."
   },
   {
-    "question": "What does triple shevron icon mean?",
+    "question": "What does triple chevron icon mean?",
     "answer": "This is displaying the players bucket. You can read more about the buckets in <a href=\"https://www.reddit.com/r/WC3/comments/f3fjl7/matchmaking_deep_dive_how_w3arena_matchmaking/?utm_source=share&utm_medium=ios_app&utm_name=iossmf\" target=\"_blank\">this reddit post</a>"
   },
   {
