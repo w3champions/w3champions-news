@@ -1,6 +1,9 @@
 End Season Tournament for S3:
+
 October 23-25
+
 Casted by B2W!!!
+
 Donate to the prizepool -https://matcherino.com/tournaments/35754/overview
 
 ---
