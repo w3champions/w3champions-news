@@ -1,4 +1,4 @@
-End Season Tournament for S3:
+End Season Tournament for Season 3 (Season ends Friday, October 16 at 18:00 CEST):
 
 October 23-25
 
