@@ -8,7 +8,7 @@
     "answer": "Yes, we support 2v2 (AT and RT), 4v4 (RT), as well as FFA. There are no current plans to support 4v4 (AT) or 3v3"
   },
   {
-    "question": "Is the developement team in some way involved or associated with Blizzard?",
+    "question": "Is the development team in some way involved or associated with Blizzard?",
     "answer": "No. This is a community project."
   },
   {
@@ -42,11 +42,11 @@
   },
   {
     "question": "I get the message \"Joining ladder game, please wait...\" but nothing happens. What to do?",
-    "answer": "This is currently a well known bug. We will investigate it. Please restart Warcraft III via Alt+F4. We have recently pushed some changes which should reduce this issue."
+    "answer": "This is currently a well known bug. We will investigate it. Please be patient and wait for game to start. An automated 10 minute timeout will occur if you restart Warcraft III via Alt+F4 during game creation to prevent a possible exploit. We have recently pushed some changes which should reduce this issue."
   },
   {
     "question": "Will ladder still work after Blizzard patches wc3?",
-    "answer": "We are confident it will. But it is possible that something breaks by a patch. We will endevour to fix this quickly if that's the case."
+    "answer": "We are confident it will. But it is possible that something breaks by a patch. We will endeavour to fix this quickly if that is the case."
   },
   {
     "question": "What does triple chevron icon mean?",
