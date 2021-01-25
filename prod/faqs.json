@@ -16,7 +16,7 @@
     "answer": "The queue is restricted to the gateway you logged in on (Europe/America/Asia/)"
   },
   {
-    "question": "Are Ranks and ladder seperated by regions?",
+    "question": "Are Ranks and ladder separated by regions?",
     "answer": "While the queueing is separated to prevent bad pings, the ranks and thereby the ladder is global right now."
   },
   {
@@ -53,7 +53,7 @@
     "answer": "This is displaying the players bucket. You can read more about the buckets in <a href=\"https://www.reddit.com/r/WC3/comments/f3fjl7/matchmaking_deep_dive_how_w3arena_matchmaking/?utm_source=share&utm_medium=ios_app&utm_name=iossmf\" target=\"_blank\">this reddit post</a>"
   },
   {
-    "question": "I have joinbugs for a speficic map",
+    "question": "I have joinbugs for a specific map",
     "answer": "If you have join bugs for specific maps with \"unable to start map\", you can fix by (1) deleting Maps folder in Documents/Warcraft III and in Program Files (installation location); and (2) running repair tool and your maps should work."
   }
 ]
